@@ -48,6 +48,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="https://docs.corp.kuaishou.com/image/api/convert/loadimage?id=-5960123107925775788fcAB4fKlAnkwcv88fL1AnhBYj&amp;docId=fcAB4fKlAnkwcv88fL1AnhBYj&amp;loadSource=true" link="https://docs.corp.kuaishou.com/image/api/convert/loadimage?id=-5960123107925775788fcAB4fKlAnkwcv88fL1AnhBYj&amp;docId=fcAB4fKlAnkwcv88fL1AnhBYj&amp;loadSource=true" id="dsjpgAmDPIbKOCaLaaDw-16">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="260" y="560" width="560" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
