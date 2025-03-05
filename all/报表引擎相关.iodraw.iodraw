@@ -207,6 +207,11 @@
             <mxPoint x="2259" y="770" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YqiFaoq_T7XhXTf0pUrW-5" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X8svavzOyf4X-wWMpa_x-33">
+          <mxGeometry x="-0.2444" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X8svavzOyf4X-wWMpa_x-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=26;" edge="1" parent="1" source="X8svavzOyf4X-wWMpa_x-36" target="X8svavzOyf4X-wWMpa_x-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
