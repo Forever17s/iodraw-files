@@ -32,7 +32,7 @@
         <mxCell id="dsjpgAmDPIbKOCaLaaDw-11" value="展示组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=default;fontColor=#FF0000;shadow=1;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
           <mxGeometry x="721" y="631" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dsjpgAmDPIbKOCaLaaDw-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=flexArrow;shadow=0;strokeWidth=0;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#9AC7BF;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" edge="1" parent="1" source="dsjpgAmDPIbKOCaLaaDw-9">
+        <mxCell id="dsjpgAmDPIbKOCaLaaDw-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=flexArrow;shadow=0;strokeWidth=0;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#9AC7BF;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;width=4;endSize=3.142857142857143;endWidth=6.857142857142857;" edge="1" parent="1" source="dsjpgAmDPIbKOCaLaaDw-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="620" as="sourcePoint" />
             <mxPoint x="450" y="410" as="targetPoint" />
