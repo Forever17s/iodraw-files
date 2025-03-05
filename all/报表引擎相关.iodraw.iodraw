@@ -447,7 +447,7 @@
         <mxCell id="YqiFaoq_T7XhXTf0pUrW-2" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;前端校验校验&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#D79B00;strokeWidth=2;fontFamily=Helvetica;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="2154" y="829.9999999999999" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PT7h3TqY1GFabqMPB8G4-1" value="视图渲染" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontSize=22;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="PT7h3TqY1GFabqMPB8G4-1" value="兜底配置" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontSize=22;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="2404" y="910" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
