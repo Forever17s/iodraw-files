@@ -396,7 +396,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X8svavzOyf4X-wWMpa_x-81" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;前端校验校验&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#D79B00;strokeWidth=2;fontFamily=Helvetica;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="X8svavzOyf4X-wWMpa_x-81" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;前端校验&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#D79B00;strokeWidth=2;fontFamily=Helvetica;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1446" y="1564.12" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X8svavzOyf4X-wWMpa_x-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=26;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8svavzOyf4X-wWMpa_x-83" target="X8svavzOyf4X-wWMpa_x-64">
