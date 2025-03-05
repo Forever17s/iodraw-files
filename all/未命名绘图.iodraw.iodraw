@@ -26,8 +26,11 @@
         <mxCell id="dsjpgAmDPIbKOCaLaaDw-9" value="容器组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=default;fontColor=#FF0000;shadow=1;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="343" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dsjpgAmDPIbKOCaLaaDw-10" value="容器组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=default;fontColor=#FF0000;shadow=1;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
+        <mxCell id="dsjpgAmDPIbKOCaLaaDw-10" value="设置器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=default;fontColor=#FF0000;shadow=1;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="443" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dsjpgAmDPIbKOCaLaaDw-11" value="设置器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=default;fontColor=#FF0000;shadow=1;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="453" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
