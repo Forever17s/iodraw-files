@@ -19,7 +19,7 @@
           <mxGeometry x="730" y="443" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dsjpgAmDPIbKOCaLaaDw-11" value="展示组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=default;fontColor=#FF0000;shadow=1;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="631" width="60" height="30" as="geometry" />
+          <mxGeometry x="700" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dsjpgAmDPIbKOCaLaaDw-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=flexArrow;shadow=0;strokeWidth=0;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#9AC7BF;flowAnimation=0;dashed=1;width=4;endSize=3.142857142857143;endWidth=6.857142857142857;" edge="1" parent="1" source="dsjpgAmDPIbKOCaLaaDw-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,7 +49,7 @@
           <mxGeometry x="790" y="448" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dsjpgAmDPIbKOCaLaaDw-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#f20202;" vertex="1" parent="1">
-          <mxGeometry x="781" y="636" width="102" height="20" as="geometry" />
+          <mxGeometry x="760" y="665" width="102" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
