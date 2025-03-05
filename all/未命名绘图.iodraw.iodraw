@@ -23,8 +23,8 @@
         <mxCell id="dsjpgAmDPIbKOCaLaaDw-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#f20202;" vertex="1" parent="1">
           <mxGeometry x="781" y="636" width="102" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dsjpgAmDPIbKOCaLaaDw-9" value="容器组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="870" y="348" width="60" height="30" as="geometry" />
+        <mxCell id="dsjpgAmDPIbKOCaLaaDw-9" value="容器组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontColor=#FF0000;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="343" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
