@@ -35,10 +35,8 @@
         <mxCell id="dsjpgAmDPIbKOCaLaaDw-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=arrow;shadow=0;endSize=2;startSize=2;strokeWidth=0;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#9AC7BF;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="dsjpgAmDPIbKOCaLaaDw-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="620" as="sourcePoint" />
-            <mxPoint x="300" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="410" />
-            </Array>
+            <mxPoint x="450" y="410" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
